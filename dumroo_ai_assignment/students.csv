@@ -1,0 +1,13 @@
+student_id,name,grade,class,submission_status,last_submission_date,quiz_date,quiz_score,region
+1,Alice Sharma,8,A,submitted,2025-11-10,2025-11-12,85,North
+2,Rahul Verma,8,A,not_submitted,,2025-11-19,78,North
+3,Sana Khan,7,B,submitted,2025-11-09,2025-11-20,92,South
+4,Vikram Singh,8,B,submitted,2025-11-08,2025-11-21,66,North
+5,Meera Patel,9,A,not_submitted,,2025-11-18,0,West
+6,Arjun Rao,6,C,submitted,2025-11-11,2025-11-25,73,South
+7,Neha Joshi,8,A,submitted,2025-11-14,2025-11-26,88,North
+8,Imran Sheikh,7,C,not_submitted,,2025-11-27,0,South
+9,Priya Desai,8,B,submitted,2025-11-03,2025-11-22,81,West
+10,Rohan Kulkarni,8,A,not_submitted,,2025-11-15,0,North
+11,Tarun Mehta,9,B,submitted,2025-11-12,2025-11-19,69,West
+12,Kavita Nair,8,C,submitted,2025-11-13,2025-11-20,95,South
